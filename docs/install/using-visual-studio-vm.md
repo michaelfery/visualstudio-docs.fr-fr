@@ -36,7 +36,7 @@ Sur la Place de marché Microsoft Azure, vous trouverez des images des versions 
 
 | Version commerciale                                              | Éditions                     |     Version du produit      |
 |:------------------------------------------------------------:|:----------------------------:|:------------------------:|
-|       Visual Studio 2019 : Preview (RC3)                      |           Entreprise         |    Version 16.0.0 RC3    |
+|       Visual Studio 2019 : RTW                                |    Enterprise, Community     |    Version 16.0.0        |
 | Visual Studio 2017 : Dernière version (version 15.9)                    |    Enterprise, Community     |      Version 15.9.9      |
 |         Visual Studio 2017 : RTW                              |    Enterprise, Community     |      Version 15.0.22     |
 |   Visual Studio 2015 : Dernière version (Mise à jour 3)                      |    Enterprise, Community     |  Version 14.0.25431.01   |
